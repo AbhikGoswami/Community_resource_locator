@@ -1,3 +1,6 @@
+You can use this link: https://appdistribution.firebase.dev/i/73e04163b94b5e34  to try out the app
+
+
 I have attached some screenshots of the app
 
 ![image](https://github.com/user-attachments/assets/4710bdd9-1aa9-4881-ae7b-d19fc846da0d)
